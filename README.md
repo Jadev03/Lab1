@@ -26,7 +26,7 @@ gcc -o serialList.exe serialList.c
 ```sh
 ./serialList.exe
 ```
-or on Windows:
+or on Windows Cmd:
 ```sh
 serialList.exe
 ```
@@ -55,7 +55,7 @@ gcc -o mutextList.exe mutextList.c -lpthread
 ```sh
 ./mutextList.exe
 ```
-or on Windows:
+or on Windows Cmd:
 ```sh
 mutextList.exe
 ```
@@ -85,7 +85,7 @@ gcc -o readwrite.exe readwriteList.c -lpthread
 ```sh
 ./readwrite.exe
 ```
-or on Windows:
+or on Windows Cmd:
 ```sh
 readwrite.exe
 ```
