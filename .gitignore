@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.idb
+
+# Other build artifacts
+*.log
+
+# IDE specific files
+.vscode/
